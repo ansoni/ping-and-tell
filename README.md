@@ -5,7 +5,7 @@ Ping an address and announce when it works.  Currently works only on OSX(pull re
 
 # Usage
 
-bash pingandtell.sh <ip address> <success cheer>
+	bash pingandtell.sh <ip address> <success cheer>
 
 # Why
 
