@@ -1,4 +1,8 @@
 #!/bin/bash
+# Ping an IP address(or hostname) and announce when successful.
+#  - https://github.com/ansoni/ping-and-tell
+#  - Please send useful pull requests to make the script better.
+
 IP=$1
 CHEER=$2
 SAY=/usr/bin/say
